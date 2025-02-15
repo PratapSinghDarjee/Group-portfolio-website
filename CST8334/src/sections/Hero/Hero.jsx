@@ -9,7 +9,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import CV from '../../assets/COVER LETTER.pdf';
+import CV from '../../assets/license.pdf';
 import cert from '../../assets/Certificates.pdf';
 import train from '../../assets/Trainings.pdf';
 
@@ -69,7 +69,7 @@ function Hero() {
             
             <a href={CV} download>
                 <button className="hover">
-                   Cover Letter
+                   Licenses and certificates
                 </button>          
             </a>
             
