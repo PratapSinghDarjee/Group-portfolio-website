@@ -41,7 +41,7 @@ function Hero() {
         </div>
         <div className={styles.info}> 
             <h1>
-                Dream Again 
+                Team Dream Again 
             </h1>
             <h2>
                 Algonquin College
